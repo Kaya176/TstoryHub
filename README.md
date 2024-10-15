@@ -10,8 +10,6 @@
 
 - Transformer를 이용한 번역모델 구축, [[Blog Post](https://kaya-dev.tistory.com/12) / Code]
 
-- Selenium으로 웹사이트(디시인사이드) 크롤링하기, [[Blog Post](https://kaya-dev.tistory.com/32) / Code]
-
 - Positional encoding과 Relative position representation은 어떻게 동작하는가, [[Blog Post](https://kaya-dev.tistory.com/43) / Code]
 
 - WordPiece Tokenizer 이해 및 정리, [[Blog Post](https://kaya-dev.tistory.com/47) / Code]
@@ -27,3 +25,9 @@
 # 머신러닝(Machine learning)
 
 - K-means Clustering Algorithm 이해 및 구현, [[Blog Post](https://kaya-dev.tistory.com/25) / Code]
+
+# Python
+
+- Selenium으로 웹사이트(디시인사이드) 크롤링하기, [[Blog Post](https://kaya-dev.tistory.com/32) / Code]
+
+# 자료 구조(ppt)
