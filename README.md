@@ -24,7 +24,7 @@
 
 # 머신러닝(Machine learning)
 
-- K-means Clustering Algorithm 이해 및 구현, [[Blog Post](https://kaya-dev.tistory.com/25) / Code]
+- K-means Clustering Algorithm 이해 및 구현, [[Blog Post](https://kaya-dev.tistory.com/25) / [Code](https://github.com/Kaya176/TstoryHub/tree/main/K-means%20Clustering%20Algorithm%20%EC%9D%B4%ED%95%B4%20%EB%B0%8F%20%EA%B5%AC%ED%98%84)]
 
 # Python
 
