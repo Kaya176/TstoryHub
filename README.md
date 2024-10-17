@@ -12,5 +12,5 @@
 코드와 관련된 자세한 설명은 [제 블로그 게시글](https://kaya-dev.tistory.com/6)을 참고해 주시기 바랍니다!
 ## Quick start
 ```bash
->>> python -m model.py
+python -m model.py
 ```
